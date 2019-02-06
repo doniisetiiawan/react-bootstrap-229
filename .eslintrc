@@ -5,5 +5,7 @@
     "document": true
   },
   "rules": {
+    "react/no-unescaped-entities": "off",
+    "react/jsx-one-expression-per-line": "off"
   }
 }
